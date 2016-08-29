@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="navigate_bar"/>
+    <item type="id" name="navigate_title"/>
+    <item type="id" name="btn_navigate_left"/>
+    <item type="id" name="btn_navigate_right"/>
+    
+    <item type="id" name="item_title"/>
+    <item type="id" name="lv_common"/>
+    <item type="id" name="message"/>
+    
+</resources>
